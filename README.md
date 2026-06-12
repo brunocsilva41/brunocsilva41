@@ -1,55 +1,63 @@
 # Bruno Silva
-**Full Stack Developer | AI & Automation Engineer**
+**Senior Full Stack Engineer | AI Orchestration & SaaS Architect**
 
 ---
 
-### 🚀 Sobre Mim
-Desenvolvedor focado em criar soluções que unem a robustez do Full Stack com a inteligência da IA. Especialista em automação de processos, integração de sistemas críticos e experiências interativas de alto impacto.
+### 🚀 Visão Profissional
+Especialista em transformar complexidade técnica em valor de negócio. Minha atuação foca na interseção entre **Engenharia de Software de Alta Performance** e **Inteligência Artificial Autônoma**. Desenvolvo desde orquestradores de agentes inteligentes até plataformas SaaS escaláveis com arquitetura limpa.
 
-| 🛠️ Engineering | 🤖 AI & Agents | 🏗️ Infra & DevTools | 💼 Business Solutions |
+| 🏗️ Enterprise SaaS | 🤖 AI & Agentic Workflows | 🛠️ DevTools & Automation | 📊 Business Intelligence |
 | :--- | :--- | :--- | :--- |
-| Desenvolvimento escalável com TS, PHP e Python. | Criação de agentes inteligentes e orquestração de LLMs. | Gerenciamento de containers, VMs e automação via CLI. | Integrações SEFAZ, Linx e sistemas de gestão (ERP). |
+| Next.js 14, NestJS, Clean Architecture & Multitenancy. | Orquestração de LLMs (Claude, Gemini), MCP & RAG. | Automação via CLI, Docker & Infraestrutura como Código. | Dashboards de KPIs, Integrações ERP & Fintech. |
 
 ---
 
-### 🎯 O que eu entrego
-- **Automação Inteligente:** Desenvolvimento de ferramentas e agentes (como o gent-orquestrator) que otimizam fluxos de trabalho corporativos.
-- **Sistemas Escaláveis:** Backends robustos em Node.js e PHP, focados em performance e segurança de dados.
-- **Interfaces Modernas:** Dashboards intuitivos e portfólios 3D interativos utilizando Three.js e React.
-- **Integração de Ecossistemas:** Conectividade entre sistemas legados e tecnologias modernas de nuvem e IA.
+### 🎯 Projetos de Elite em Destaque
+
+#### 🤖 [EvoNexus (Agent Orquestrator)](https://github.com/brunocsilva41/agent-orquestrator)
+Uma camada operacional multi-agente construída sobre o protocolo Claude Code.
+- **Diferencial:** Gerencia um time de **38 agentes especializados** (Negócios e Engenharia).
+- **Tech:** Integração via MCP (Model Context Protocol) com Google Calendar, GitHub, Stripe e Slack.
+- **Impacto:** Automação total de rotinas diárias, de relatórios financeiros a revisões de arquitetura.
+
+#### 🏋️ [gymOS — Ultimate Fitness OS](https://github.com/brunocsilva41/gymOS)
+Plataforma SaaS completa para gestão de academias de alto rendimento.
+- **Arquitetura:** Monorepo (TurboRepo), Clean Architecture e isolamento lógico de dados (Multitenancy).
+- **Tech Stack:** Next.js 14 (App Router), Prisma, TailwindCSS e PostgreSQL.
+- **Foco:** UX imersiva para o aluno e BI estratégico para o gestor.
+
+#### 🔧 [AI Terminal Tools](https://github.com/brunocsilva41/ai-terminal-tools)
+Conjunto de ferramentas personalizadas para estender as capacidades de IAs em ambiente local.
+- **Foco:** Automação de sistema, leitura de banco de dados e navegação web segura via CLI.
 
 ---
 
-### 📊 Linguagens nos meus repositórios
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocsilva41&layout=compact&theme=dracula&hide_border=true)
+### 📊 My Tech Universe
 
----
-
-### 💻 Tech Stack
-
-| Categoria | Tecnologias |
+| Categoria | Stack & Ferramentas |
 | :--- | :--- |
-| **Linguagens** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **AI Arsenal** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-blue?style=flat-square&logo=model-context-protocol&logoColor=white) ![LM Studio](https://img.shields.io/badge/LM_Studio-black?style=flat-square&logo=ollama&logoColor=white) |
-| **Tools & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub_CLI](https://img.shields.io/badge/GitHub_CLI-2088FF?style=flat-square&logo=github&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-black?style=flat-square) ![Scoop](https://img.shields.io/badge/Scoop-blue?style=flat-square) |
+| **Linguagens** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **AI Arsenal** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-blue?style=for-the-badge&logo=model-context-protocol&logoColor=white) |
+| **Infra & DevTools**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub_CLI](https://img.shields.io/badge/GitHub_CLI-2088FF?style=for-the-badge&logo=github&logoColor=white) ![Windsurf](https://img.shields.io/badge/Windsurf-black?style=for-the-badge) ![Scoop](https://img.shields.io/badge/Scoop-blue?style=for-the-badge) |
 
 ---
 
-### ⭐ Destaques
-- **[gymOS](https://github.com/brunocsilva41/gymOS):** Sistema operacional open-source para gestão de negócios potencializado por IA.
-- **[agent-orquestrator](https://github.com/brunocsilva41/agent-orquestrator):** Orquestrador de agentes autônomos baseado no Claude Code.
-- **[Portfólio 3D](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev):** Experiência visual imersiva utilizando Three.js e shaders GLSL.
-- **Integrações Fiscais:** Experiência com integração de APIs SEFAZ e middleware Linx para automação de varejo.
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunocsilva41&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocsilva41&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="Top Langs" height="180" />
+</p>
 
 ---
 
-### 📬 Contato
-- [LinkedIn](https://www.linkedin.com/in/brunocsilva41/)
-- [Portfolio](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev)
+### 📬 Conecte-se Comigo
+- **LinkedIn:** [linkedin.com/in/bruno-cesar-37bab4197](https://www.linkedin.com/in/bruno-cesar-37bab4197/)
+- **Portfólio 3D:** [Portifolio-BrunoSilvaDev](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev)
+- **Empresa:** Valiant Group / Evolution Foundation
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocsilva41&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <i>"Construindo o futuro através de código limpo e inteligência autônoma."</i>
 </p>
