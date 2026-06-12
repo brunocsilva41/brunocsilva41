@@ -46,7 +46,7 @@ Conjunto de ferramentas personalizadas para estender as capacidades de IAs em am
 
 ### 📈 GitHub Ecosystem Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocsilva41&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunocsilva41&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocsilva41&layout=compact&theme=dracula&hide_border=true&count_private=true&langs_count=10" alt="Top Langs" height="180" />
 </p>
 
