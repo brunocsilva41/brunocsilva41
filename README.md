@@ -53,3 +53,4 @@ Desenvolvedor focado em criar soluções que unem a robustez do Full Stack com a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunocsilva41&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
+ 
