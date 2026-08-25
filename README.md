@@ -1,5 +1,5 @@
 # Bruno Silva
-**Senior Full Stack Engineer | AI Orchestration & SaaS Architect**
+**Full Stack Engineer | AI Orchestration & SaaS Architect**
 
 ---
 
