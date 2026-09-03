@@ -1,7 +1,8 @@
 # Bruno Silva
 **Full Stack Engineer | AI Orchestration & SaaS Architect**
 
-[![Portfolio](https://img.shields.io/badge/Portfólio_3D-Live_Demo-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bruno-gamma-six.vercel.app)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&logo=target&logoColor=white)](https://www.linkedin.com/in/dev-bruno-silva)
+[![Portfolio](https://img.shields.io/badge/Portfólio_3D-portfolio--bruno.bcs--consult.me-7928CA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-bruno.bcs-consult.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--bruno--silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-bruno-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-brunocsilva41-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunocsilva41)
 [![Email](https://img.shields.io/badge/Email-brunocesar.social%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunocesar.social@gmail.com)
@@ -51,7 +52,7 @@ Engenheiro de Software com foco na convergência entre **Sistemas Distribuídos 
 - **Diferenciais:** Validação sintática multi-estágio via AST parsing, sandbox de queries somente-leitura e suporte flexível a transports (Stdio / SSE).
 - **Tech Stack:** `TypeScript` `Node.js` `MySQL` `MSSQL` `Model Context Protocol (MCP)` `Winston`
 
-#### 🌌 [Portfólio 3D — Constelação Interativa](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev) • [Live Demo](https://portfolio-bruno-gamma-six.vercel.app)
+#### 🌌 [Portfólio 3D — Constelação Interativa](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev) • [Live Demo](https://portfolio-bruno.bcs-consult.me/)
 **Experiência WebGL Imersiva com Shaders GLSL e Navegação Espacial 3D**
 - **Problema que resolve:** Apresentação interativa de portfólio que transforma repositórios e habilidades em corpos celestes navegáveis no espaço 3D.
 - **Diferenciais:** Shaders GLSL customizados, física de órbita calculada em tempo real, transições cinemáticas e modo de exploração livre.
@@ -71,7 +72,7 @@ Engenheiro de Software com foco na convergência entre **Sistemas Distribuídos 
 ---
 
 ### 💼 Experiência & Engenharia Corporativa
-Atualmente atuando como **Desenvolvedor Full Stack na Valiant Group**:
+**Experiência Recente como Desenvolvedor Full Stack na Valiant Group (04/2025 – 08/2026):**
 - **Middleware Fiscal & Integração ERP:** Desenvolvimento do núcleo de middleware para sincronização contínua com o ERP Linx e processamento automatizado de documentos fiscais eletrônicos (NF-e, NFS-e, CT-e), otimizando o tempo de resposta e validação de regras fiscais.
 - **Agente de Conectividade Windows:** Construção de agente de alta disponibilidade em C#/.NET (Windows Service) com máquina de estados resiliente e túneis VPN WireGuard dedicados para comunicação segura com servidores on-premise de clientes.
 - **Backoffice & Arquitetura Multi-Tenant:** Implementação e evolução de painel administrativo em PHP/Laravel com isolamento de dados por cliente, exportação analítica e controle de acesso granular baseado em papéis (RBAC).
@@ -100,10 +101,10 @@ Atualmente atuando como **Desenvolvedor Full Stack na Valiant Group**:
 ---
 
 ### 📬 Conecte-se Comigo
+- **Status Atual:** 🟢 **Disponível para novas oportunidades** (Open to Work — Remoto / Híbrido em São Paulo e região)
 - **LinkedIn:** [linkedin.com/in/dev-bruno-silva](https://www.linkedin.com/in/dev-bruno-silva)
-- **Portfólio 3D:** [portfolio-bruno-gamma-six.vercel.app](https://portfolio-bruno-gamma-six.vercel.app) • [Código Fonte](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev)
+- **Portfólio 3D:** [portfolio-bruno.bcs-consult.me](https://portfolio-bruno.bcs-consult.me/) • [Código Fonte](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev)
 - **Email:** [brunocesar.social@gmail.com](mailto:brunocesar.social@gmail.com)
-- **Atuação:** Software Engineer @ Valiant Group
 
 ---
 <p align="center">
