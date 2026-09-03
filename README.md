@@ -20,62 +20,29 @@ Engenheiro de Software com foco na convergência entre **Sistemas Distribuídos 
 
 ### 🎯 Projetos Autorais em Destaque
 
-> *Todos os projetos listados abaixo foram concebidos e implementados de forma 100% autoral.*
-
 #### 🤖 [Agents Hub](https://github.com/brunocsilva41/Agents-Hub)
 **Control Plane para Orquestração e Monitoramento de Múltiplos Agentes de IA**
-- **Problema que resolve:** Elimina a complexidade e a fragmentação ao orquestrar múltiplos agentes autônomos em diferentes modelos de LLM.
-- **Diferenciais:** Daemon operacional com persistência de memórias de sessão, governança de chamadas, versionamento de prompts e integração multi-provedor (Claude, OpenAI, Codex).
+- **O que resolve:** Centraliza a execução, governança e monitoramento de múltiplos agentes autônomos em diferentes modelos de LLM.
+- **Diferenciais:** Daemon operacional com persistência de memórias de sessão, isolamento de execuções, versionamento dinâmico de prompts e integração multi-provedor (Claude, OpenAI, Codex).
 - **Tech Stack:** `TypeScript` `Node.js` `Model Context Protocol (MCP)` `Docker` `LLM APIs`
 
 #### 🛡️ [ControlPC](https://github.com/brunocsilva41/ControlPC)
 **Desktop Agent Seguro em Rust para Interação e Controle do Sistema Operacional**
-- **Problema que resolve:** Permite que agentes de IA interajam e controlem o ambiente desktop com garantias rigorosas de segurança.
-- **Diferenciais:** Arquitetura *security-first (fail-closed)*, resolução semântica de alvos visuais na interface do Windows e verificação contínua de foco.
+- **O que resolve:** Permite que modelos e agentes de IA interajam e controlem o ambiente desktop com garantias rigorosas de segurança.
+- **Diferenciais:** Arquitetura *security-first (fail-closed)*, resolução semântica de alvos na interface nativa do Windows e verificação contínua de foco.
 - **Tech Stack:** `Rust` `TypeScript` `Vite` `Windows Native API` `Desktop Automation`
 
 #### 🏋️ [gymOS — Ultimate Fitness OS](https://github.com/brunocsilva41/gymOS)
 **Plataforma SaaS Completa para Gestão de Redes e Academias de Alto Rendimento**
-- **Problema que resolve:** Centraliza a operação, controle de acessos, cobrança recorrente e retenção de alunos em uma plataforma moderna e responsiva.
-- **Diferenciais:** Monorepo escalável com isolamento lógico multi-tenant, billing automatizado, treinos digitalizados e dashboards analíticos de MRR e churn.
+- **O que resolve:** Centraliza a operação, controle de acessos, cobrança recorrente e retenção de alunos em uma plataforma moderna e intuitiva.
+- **Diferenciais:** Monorepo escalável com isolamento lógico multi-tenant, billing recorrente automatizado, treinos digitalizados e dashboards analíticos de MRR e churn.
 - **Tech Stack:** `Next.js 14 (App Router)` `NestJS` `Prisma ORM` `PostgreSQL` `TailwindCSS` `TurboRepo` `Docker` `Jest & Playwright`
 
 #### 🎮 [TrioOnline](https://github.com/brunocsilva41/TrioOnline)
 **Multiplayer Real-Time Game Engine & Web Platform**
-- **Problema que resolve:** Versão online do jogo de cartas Trio, viabilizando partidas competitivas em tempo real com baixa latência e alta estabilidade.
-- **Diferenciais:** Engine de jogo autoritativa e determinística baseada em ticks, sincronização via WebSockets (Colyseus), persistência de estado em Redis e deploy contínuo em Kubernetes com ArgoCD.
+- **O que resolve:** Versão online do jogo de cartas Trio, permitindo partidas multiplayer competitivas em tempo real com baixa latência e sincronização precisa.
+- **Diferenciais:** Engine de jogo autoritativa e determinística baseada em ticks, salas sincronizadas via WebSockets (Colyseus), persistência de estado em Redis e deploy contínuo em Kubernetes com ArgoCD.
 - **Tech Stack:** `TypeScript` `React / Next.js` `Colyseus` `Redis` `PostgreSQL` `Prisma` `Docker`
-
-#### 🔌 [MCP Server Database](https://github.com/brunocsilva41/mcp-server-database)
-**Servidor MCP para Acesso e Análise Segura de Bancos de Dados por IAs**
-- **Problema que resolve:** Viabiliza consultas e análises de LLMs diretamente em bancos relacionais (MySQL e SQL Server) sem risco de comandos destrutivos.
-- **Diferenciais:** Validação sintática multi-estágio via AST parsing, sandbox de queries somente-leitura e suporte flexível a transports (Stdio / SSE).
-- **Tech Stack:** `TypeScript` `Node.js` `MySQL` `MSSQL` `Model Context Protocol (MCP)` `Winston`
-
-#### 🌌 [Portfólio 3D — Constelação Interativa](https://github.com/brunocsilva41/Portifolio-BrunoSilvaDev) • [Live Demo](https://portfolio-bruno.bcs-consult.me/)
-**Experiência WebGL Imersiva com Shaders GLSL e Navegação Espacial 3D**
-- **Problema que resolve:** Apresentação interativa de portfólio que transforma repositórios e habilidades em corpos celestes navegáveis no espaço 3D.
-- **Diferenciais:** Shaders GLSL customizados, física de órbita calculada em tempo real, transições cinemáticas e modo de exploração livre.
-- **Tech Stack:** `JavaScript` `Three.js` `GLSL Shaders` `CSS3D` `Vite` `Vercel`
-
-#### 🔧 [AI Terminal Tools](https://github.com/brunocsilva41/ai-terminal-tools)
-**Conjunto CLI Unificado para Produtividade e Ferramentas Locais de IA**
-- **Problema que resolve:** Unifica comandos e automações de múltiplos ecossistemas de IA (Gemini, Claude, OpenAI) diretamente no terminal de trabalho.
-- **Diferenciais:** Perfis configuráveis de ativação por projeto, checagens automatizadas e CI/CD matricial via GitHub Actions.
-- **Tech Stack:** `JavaScript` `Node.js` `Python` `CLI Tools` `GitHub Actions`
-
-#### ☕ [Café Gourmet](https://github.com/brunocsilva41/cafe-gourmet-react) & [API Café Gourmet](https://github.com/brunocsilva41/api-cafe-gourmet)
-**E-commerce Full Stack de Ponta a Ponta (TCC Ciência da Computação)**
-- **Problema que resolve:** Trabalho de Conclusão de Curso cobrindo todo o fluxo de um e-commerce: cardápio dinâmico, carrinho, pedidos e autenticação.
-- **Tech Stack:** `React` `Node.js` `Express` `REST API` `Vercel`
-
----
-
-### 💼 Experiência & Engenharia Corporativa
-**Experiência Recente como Desenvolvedor Full Stack na Valiant Group (04/2025 – 08/2026):**
-- **Middleware Fiscal & Integração ERP:** Desenvolvimento do núcleo de middleware para sincronização contínua com o ERP Linx e processamento automatizado de documentos fiscais eletrônicos (NF-e, NFS-e, CT-e), otimizando o tempo de resposta e validação de regras fiscais.
-- **Agente de Conectividade Windows:** Construção de agente de alta disponibilidade em C#/.NET (Windows Service) com máquina de estados resiliente e túneis VPN WireGuard dedicados para comunicação segura com servidores on-premise de clientes.
-- **Backoffice & Arquitetura Multi-Tenant:** Implementação e evolução de painel administrativo em PHP/Laravel com isolamento de dados por cliente, exportação analítica e controle de acesso granular baseado em papéis (RBAC).
 
 ---
 
