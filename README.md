@@ -92,13 +92,13 @@ Engenheiro de Software com foco na convergência entre **Sistemas Distribuídos 
 
 ---
 
-### 📈 GitHub Ecosystem Stats
+### 📈 GitHub Ecosystem & Code Distribution
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=brunocsilva41&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brunocsilva41&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=brunocsilva41&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="195" />
+  <img src="assets/languages.svg" alt="Core Languages & Production Stack" height="195" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=brunocsilva41&theme=dracula&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=brunocsilva41&theme=dracula&hide_border=true" alt="GitHub Streak" height="195" />
 </p>
 
 ---
